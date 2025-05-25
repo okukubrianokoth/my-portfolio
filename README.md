@@ -50,15 +50,15 @@ A personal website that introduces who I am, what I can do, and showcases the pr
 ![Portfolio Screenshot](https://via.placeholder.com/600x400?text=Portfolio+Website+Screenshot)
 
 ## 📬 Contact
+mailto:okukubrian743@gmail.com
+##see my portfolio using this live link below
+https://okukubrianokoth.github.io/my-portfolio/
 
 Feel free to reach out through the contact form on the site or connect with me via email.
 
 ## 🚀 How to Run Locally
-https://okukubrianokoth.github.io/my-portfolio/
 
 
-
-mailto:okukubrian743@gmail.com
 
 ```bash
 git clone https://github.com/your-username/portfolio.git

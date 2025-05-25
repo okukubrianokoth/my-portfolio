@@ -58,3 +58,5 @@ Feel free to reach out through the contact form on the site or connect with me v
 ```bash
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
+ https://okukubrianokoth.github.io/my-portfolio/
+mailto:okukubrian743@gmail.com

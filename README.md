@@ -51,7 +51,8 @@ A personal website that introduces who I am, what I can do, and showcases the pr
 
 ## 📬 Contact
 mailto:okukubrian743@gmail.com
-##see my portfolio using this live link below
+
+**see my portfolio using this live link below:**
 https://okukubrianokoth.github.io/my-portfolio/
 
 Feel free to reach out through the contact form on the site or connect with me via email.
